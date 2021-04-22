@@ -1,5 +1,8 @@
 # CustomURP
-customed unity universal renderer pipeline 
+URP管线定制Demo。
+
+Unity：2019.4.17f1 
+URP版本：7.5.2
 
 知乎： https://zhuanlan.zhihu.com/p/366151503
 
